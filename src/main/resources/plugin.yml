@@ -1,0 +1,14 @@
+name: Lastinv
+author: Fifa12fcb
+main: me.fifa12fcb.lastinv
+version: 1.0.0
+commands:
+  lastinv:
+    description: rollback a player to their lastinventory
+    aliases: []
+  saveinv:
+    description: save a players inventory
+    aliases: []
+  loadinv:
+    description: load last saved inventory
+    aliases: []
