@@ -7,7 +7,9 @@ last inventory system coded in Java.
 Permissions:
 
 /lastinv : lastinv.use
+
 /saveinv : saveinv.use
+
 /loadinv : loadinv.use 
 
 /lastinv (player), rollback a players items to his latest death
